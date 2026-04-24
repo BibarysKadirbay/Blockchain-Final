@@ -16,6 +16,7 @@ Add role-based minting (AccessControl)
 Integrate Chainlink price feed
 Implement UUPS upgradeable contract
 Create Factory contract (CREATE + CREATE2)
+
 Bibarys 2 — Governance & Testing
 
 Responsible for DAO + security tests
@@ -27,6 +28,7 @@ Build Governor + TimelockController
 Configure voting rules (delay, period, quorum)
 Write tests (unit, fuzz, invariant)
 Add reentrancy and access-control vulnerability examples
+
 Ersultan 3 — Frontend & DevOps
 
 Responsible for UI + deployment
