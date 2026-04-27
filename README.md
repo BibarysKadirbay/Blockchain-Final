@@ -1,6 +1,24 @@
 # Blockchain-Final
 * RWA Tokenization Platform
 
+## 1. Project Overview
+
+This project is a blockchain platform for tokenizing real-world assets (RWA).  
+Users can hold asset-backed ERC-20 tokens, deposit them into an ERC-4626 vault, and participate in DAO governance.
+
+## 2. Main Features
+
+- ERC-20 asset-backed token
+- ERC-4626 yield vault
+- Role-based minting for authorized issuers
+- Chainlink price feed / Proof of Reserve
+- DAO governance with Governor + Timelock
+- The Graph indexing
+- Frontend dApp
+- L2 testnet deployment
+
+## 3. Team Roles
+
 Bibarys , Yeraly , Ersultan
 
 
@@ -35,7 +53,7 @@ Responsible for UI + deployment
 
 Tasks:
 
-Build React frontend with wallet connection
+Build frontend with wallet connection
 Show token balance, vault shares, proposals
 Implement deposit / withdraw / vote buttons
 Create The Graph subgraph
